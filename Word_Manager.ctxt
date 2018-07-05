@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=Word_Manager
+comment0.text=\n\ Used\ to\ check\ to\ see\ if\ the\ user\ input\ matches\ with\ the\ string\ and\ then\ updates\ the\ word(s)\ on\ screen\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 11,\ 2018\n
+comment1.params=words\ enemy_cnt
+comment1.target=Word_Manager(java.util.ArrayList,\ int)
+comment1.text=\n\ Constructors\:\n\ @param\ words\ \=\ list\ of\ words\ to\ be\ processed\n\ @param\ enemy_cnt\ \=\ number\ of\ words\ in\ ucurrent\ level\n
+comment10.params=
+comment10.target=java.util.ArrayList\ Get_List()
+comment11.params=
+comment11.target=Word[]\ getWords()
+comment12.params=
+comment12.target=void\ act()
+comment12.text=\n\ Act\ -\ do\ whatever\ the\ Word_Manager\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ Backspace_Listener()
+comment2.text=\n\ Set\ the\ boolean\ value\ to\ true\n
+comment3.params=
+comment3.target=void\ Space_Listener()
+comment3.text=\n\ Method\ sets\ the\ boolean\ value\ equal\ to\ true\n\ Call\ on\ this\ method\ if\ the\ user\ pressed\ space\n
+comment4.params=
+comment4.target=void\ Up_Key_Pressed()
+comment4.text=\n\ Method\ sets\ the\ boolean\ value\ of\ up_pressed\ to\ true\n
+comment5.params=
+comment5.target=void\ Down_Key_Pressed()
+comment5.text=\n\ Method\ sets\ the\ boolean\ value\ of\ down_pressed\ to\ true\n
+comment6.params=letter
+comment6.target=void\ TypeLetter(char)
+comment6.text=\n\ Method\ is\ used\ to\ process\ whenever\ the\ user\ types\ a\ character\n
+comment7.params=
+comment7.target=boolean\ typedCorrectly()
+comment8.params=
+comment8.target=boolean\ isActive()
+comment9.params=
+comment9.target=Word\ returnWord()
+comment9.text=\n\ Method\ returns\ the\ word\ that\ the\ user\ has\ chosen\ to\ type\n
+numComments=13

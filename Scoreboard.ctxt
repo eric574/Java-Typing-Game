@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\n\ Class\ is\ used\ to\ display\ scoreboard/all-time\ leaderboard\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 2,\ 2018\n
+comment1.params=level\ mode\ sound\ user\ info
+comment1.target=Scoreboard(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Scoreboard.\n\ \n
+comment2.params=filename
+comment2.target=java.util.Scanner\ getScanner(java.lang.String)
+comment2.text=\n\ @\ param\ filename\:\ The\ name\ of\ the\ text\ file\ -\ make\ sure\ that\ this\ is\ correct\n\ @\ returns\ A\ Scanner\ object\ that\ you\ can\ use\ to\ read\ the\ content\ of\ the\ text\ file\n
+comment3.params=
+comment3.target=void\ GetScores1()
+comment3.text=\n\ Second\ method\ to\ get\ the\ scores\ using\ Java's\ Scanner\n
+comment4.params=
+comment4.target=void\ GetScores()
+comment4.text=\n\ Method\ gets\ the\ scores\ using\ Java's\ FileReader\ and\ BufferedReader\n
+comment5.params=
+comment5.target=void\ Display()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=7

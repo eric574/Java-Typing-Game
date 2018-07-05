@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Reading_and_Writing_Text_Files
+comment0.text=\n\ This\ class\ is\ used\ to\ read\ and\ write\ text\ files\ using\ FileReader\ and\ BufferedReader\!\!\!\n\ This\ will\ be\ used\ to\ read\ and\ write\ from\ the\ scores.txt\ text\ file\n\ @author\ Eric\ Liu\n\ @version\ March\ 2,\ 2018\n
+comment1.params=s
+comment1.target=Reading_and_Writing_Text_Files(java.lang.String)
+comment1.text=\n\ Constructor\ for\ this\ class\n\ @param\ s\ \=\ the\ name\ of\ the\ file\ to\ be\ read\ and\ or\ extracted\ from\n
+comment2.params=filename
+comment2.target=java.util.Scanner\ getScanner(java.lang.String)
+comment2.text=\n\ @\ param\ filename\:\ The\ name\ of\ the\ text\ file\ -\ make\ sure\ that\ this\ is\ correct\n\ @\ returns\ A\ Scanner\ object\ that\ you\ can\ use\ to\ read\ the\ content\ of\ the\ text\ file\n
+comment3.params=
+comment3.target=void\ ReadWords1()
+comment3.text=\n\ Alternative\ method\ of\ reading\ words,\ to\ using\ BufferedReader\n
+comment4.params=
+comment4.target=void\ ReadWords()
+comment4.text=\n\ For\ the\ words\ text\ files,\ there\ is\ no\ need\ to\ split\ the\ contents\ since\ they're\ separated\ by\ a\ new\ line\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getList()
+comment5.text=\n\ Returns\ an\ ArrayList\ of\ Strings\ for\ generating\ the\ words\n
+comment6.params=player
+comment6.target=void\ Write(Player_Info)
+comment6.text=\n\ Mainly\ used\ for\ writing\ to\ the\ score\ .txt\ file\n\ Use\ FileWriter\ and\ BufferedWriter\ to\ write,\ since\ the\ Scanner\ class\ cannot\ write\n
+comment7.params=player
+comment7.target=void\ Write1(Player_Info)
+comment7.text=\n\ Second\ method\ used\ for\ writing\ to\ the\ score\ .txt\ file\n\ Use\ PrintWriter\ or\ FileOutputStream\ to\ do\ so\n
+numComments=8

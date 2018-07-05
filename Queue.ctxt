@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Queue\ Generic\ class\ implementation\r\n\ \r\n\ @author\ Eric\ Liu\r\n\ @version\ March\ 14,\ 2018\ (Modified\ March\ 24,\ 2018)\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=item
+comment2.target=void\ enqueue(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ dequeue()
+comment4.params=
+comment4.target=int\ size()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ship_1
+comment0.text=\n\ For\ ship\ 1\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 11,\ 2018\n
+comment1.params=speed\ ycoor
+comment1.target=Ship_1(int,\ int)
+comment1.text=\n\ @param\ word_type\ \=\ type\ of\ word\n\ @param\ speed\ \=\ value\ of\ speed\ for\ the\ ship\n\ @param\ ycoor\ \=\ y\ coordinate\ of\ the\ ship\ on\ the\ screen\n
+comment2.params=target
+comment2.target=void\ SetTargetWord(Word)
+comment2.text=\n\ Use\ this\ public\ method\ to\ set\ the\ target\ word\n\ This\ will\ be\ the\ word\ that\ the\ user\ chooses\ to\ type\n
+comment3.params=timeloop
+comment3.target=void\ shootBlasts(int)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Ship_1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=5

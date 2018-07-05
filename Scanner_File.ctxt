@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Scanner_File
+comment0.text=\n\ This\ class\ is\ used\ to\ extract\ the\ contents\ of\ the\ .txt\ files\ found\ in\ the\ folder\n\ The\ method\ getScanner()\ returns\ a\ new\ Scanner\ object\ of\ the\ contents\ of\ the\ file\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 2,\ 2018\n
+comment1.params=filename
+comment1.target=java.util.Scanner\ getScanner(java.lang.String)
+comment1.text=\n\ @\ param\ filename\:\ The\ name\ of\ the\ text\ file\ -\ make\ sure\ that\ this\ is\ correct\n\ @\ returns\ A\ Scanner\ object\ that\ you\ can\ use\ to\ read\ the\ content\ of\ the\ text\ file\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Win_Screen
+comment0.text=\n\ Screen\ that\ is\ displayed\ if\ the\ player\ has\ won\n\ \n\ @author\ Eric\ Liu\n\ @version\ April\ 17,\ 2018\n
+comment1.params=level\ mode\ sound\ user\ info
+comment1.target=Win_Screen(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ \n\ Constructor\ for\ objects\ of\ class\ Win_Screen.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

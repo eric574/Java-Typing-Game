@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Word_Display
+comment0.text=\n\ For\ displaying\ the\ word\ on-screen\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 11,\ 2018\n
+comment1.params=
+comment1.target=Word_Display()
+comment2.params=_word\ colour
+comment2.target=void\ SetWord(Word,\ java.lang.String)
+comment2.text=\n\ This\ method\ is\ used\ to\ set\ the\ String\ word\ as\ well\ as\ to\ change\ the\ colour\n
+comment3.params=
+comment3.target=void\ Typed_Correctly()
+comment3.text=\n\ Method\ is\ called\ upon\ whenever\ the\ user\ types\ in\ the\ correct\ character\n
+comment4.params=
+comment4.target=void\ Remove_Letter()
+comment4.text=\n\ Method\ is\ called\ to\ remove\ the\ last\ letter\ from\ the\ word\ on\ the\ screen\n\ We\ don't\ need\ to\ change\ the\ actual\ word\ object\ itself\n
+comment5.params=
+comment5.target=void\ RemoveWord()
+comment5.text=\n\ Call\ on\ this\ method\ when\ the\ user\ has\ finished\ typing\ the\ word\ on\ the\ screen\n
+comment6.params=text\ xcoor\ ycoor
+comment6.target=void\ AddWord(Text,\ int,\ int)
+comment6.text=\n\ First\ method\ for\ adding\ the\ word\ to\ the\ screen\n\ Call\ on\ this\ method\ for\ displaying\ the\ words\ onto\ the\ screen\n
+comment7.params=xcoor\ ycoor
+comment7.target=void\ AddWord(int,\ int)
+comment7.text=\n\ Second\ method\ for\ adding\ the\ word\ to\ the\ screen\n\ This\ method\ adds\ the\ current\ text\ onto\ the\ screen\n
+comment8.params=
+comment8.target=void\ act()
+comment8.text=\n\ Act\ -\ do\ whatever\ the\ Word_Display\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=9

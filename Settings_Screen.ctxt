@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Settings_Screen
+comment0.text=\n\ Display\ the\ settings\ screen\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 9,\ 2018\n
+comment1.params=diff\ mode\ sound\ user\ info
+comment1.target=Settings_Screen(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Settings_Screen.\n\ \n
+comment2.params=
+comment2.target=void\ Display_Reset_Scores()
+comment2.text=\n\ Method\ is\ used\ to\ indicate\ that\ the\ user\ has\ resetted\ the\ highscores/scoreboard\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4
