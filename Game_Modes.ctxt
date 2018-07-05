@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Game_Modes
+comment0.text=\n\ Screen\ to\ display\ the\ two\ kinds\ of\ game\ modes\ -\ blitz\ and\ blitzkrieg\n\ \n\ @author\ Eric\ Liu\n\ @version\ April\ 15,\ 2018\n
+comment1.params=level\ mode\ sound\ user\ info
+comment1.target=Game_Modes(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ 1st\ Constructor\ for\ objects\ of\ class\ Game_Modes.\n\ \n
+comment2.params=sound\ user\ info
+comment2.target=Game_Modes(Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment2.text=\n\ 2nd\ Constructor\ for\ objects\ of\ class\ Game_Modes.\n\ \n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

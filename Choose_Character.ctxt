@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Choose_Character
+comment0.text=\n\ This\ world\ class\ is\ used\ to\ allow\ the\ user\ to\ choose\ the\ character\ to\ play\ with\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 8,\ 2018\n
+comment1.params=level\ mode\ sound\ user\ info
+comment1.target=Choose_Character(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Choose_Character.\n\ \n
+comment2.params=
+comment2.target=void\ Display_Player1()
+comment3.params=
+comment3.target=void\ Display_Player2()
+comment4.params=
+comment4.target=void\ Display_Player3()
+comment5.params=
+comment5.target=void\ Display_Player4()
+comment6.params=
+comment6.target=void\ Display_Player5()
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=8

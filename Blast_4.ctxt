@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Blast_4
+comment0.text=\n\ Fourth\ type\ of\ blast\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 11,\ 2018\n
+comment1.params=speed\ tar
+comment1.target=Blast_4(int,\ Word)
+comment1.text=\n\ @param\ word_type\ \=\ type\ of\ word/enemy\ chosen\ for\ tracking\ on-screen\n\ @param\ speed\ \=\ speed\ of\ blast/bullet\n\ @param\ tar\ \=\ target\ Word\ to\ track\n
+comment2.params=
+comment2.target=void\ goTo()
+comment2.text=\n\ Main\ method\ for\ tracking\ the\ enemies\ on\ screen\n\ Change\ this\ later\ to\ the\ actual\ target\ word\n
+comment3.params=target
+comment3.target=void\ goTo(Word)
+comment3.text=\n\ Second\ method\ for\ the\ tracking\ method\n\ @param\ target\ \=\ Word\ target\ for\ the\ user\ to\ track\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Blast_1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Enemy_3
+comment0.text=\n\ For\ enemy\ 3\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 11,\ 2018\n
+comment1.params=player_sprite\ type\ id\ speednum
+comment1.target=Enemy_3(Ship_Sprite,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getType()
+comment2.text=\n\ Method\ returns\ the\ type\ of\ enemy\ (classified\ by\ sprite)\ in\ integer\ form\n
+comment3.params=flag
+comment3.target=void\ setBoolFinished(boolean)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Enemy_5\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=5

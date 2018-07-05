@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Difficulty_Levels
+comment0.text=\n\ Display\ the\ difficulty\ levels\ screen\ once\ the\ user\ presses\ the\ start\ button\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 9,\ 2018\n
+comment1.params=diff\ mode\ sound\ user\ info
+comment1.target=Difficulty_Levels(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Difficulty_Levels.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

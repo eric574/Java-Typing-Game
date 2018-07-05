@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ For\ the\ explosion\ animation\ when\ the\ player\ dies\ or\ the\ word/enemy\ is\ destroyed\r\n\ \r\n\ @author\ Eric\ Liu\r\n\ @version\ March\ 11,\ 2018\r\n
+comment1.params=timeforloop
+comment1.target=Explosion(int)
+comment2.params=
+comment2.target=void\ Animation()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Explosion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

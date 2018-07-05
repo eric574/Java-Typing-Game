@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Background_Settings
+comment0.text=\n\ Allow\ the\ user\ to\ change\ the\ background\ used\ for\ the\ main\ game\n\ \n\ @author\ Eric\ Liu\n\ @version\ March\ 19,\ 2018\n
+comment1.params=diff\ mode\ sound\ user\ info
+comment1.target=Background_Settings(java.lang.String,\ java.lang.String,\ Sound_Info,\ Ship_Sprite,\ Background_Info)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Background_Settings.\n\ \n
+comment2.params=
+comment2.target=void\ Display_Background1()
+comment3.params=
+comment3.target=void\ Display_Background2()
+comment4.params=
+comment4.target=void\ Display_Background3()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\n\ Act\ -\ do\ whatever\ the\ Word_Manager\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=6
